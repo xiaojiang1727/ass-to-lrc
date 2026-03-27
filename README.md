@@ -1,4 +1,4 @@
-# ASS TO LRC - Karaoke Enhanced Lyric Converter
+# ASS TO LRC
 一个轻量级、零依赖的 Python 脚本，专门用于将带有\k、\K、\kf 标签的 .ass 字幕转换为增强型 .lrc 歌词文件
 
 **注意：此脚本为AI生成人工修改并添加详细注释**
